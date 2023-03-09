@@ -1,12 +1,10 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Luan de Moraes Belo
+-Profissão: Analista de Testes
+-Cidade: Manaus Amazonas
+-O que faz nas horas vagas: Jogo videogames e também brinco meus gatos.
+-Feedback sobre o curso Qualidade de Software: O melhor curso sobre Qualidade de software que existe!
+-Feedback sobre a plataforma de estudo da EBAC: A melhor plataforma de ensino que já utilizei.
 
 Obrigado!!!
-
-
